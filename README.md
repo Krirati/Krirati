@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krirati
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Kube
+- 🌱 I’m currently learning Kubernetes, react and golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
