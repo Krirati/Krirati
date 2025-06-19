@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krirati
-- 👀 I’m interested in DevOps, Android develop
-- 🌱 I’m currently learning golang and kotlin
-- 📫 How to reach me ...
+- 👀 I’m interested in Android development
+- 🌱 I’m currently role is Android developer that developing a mobile banking application
+- 📫 How to reach me www.linkedin.com/in/krirati-kanit
 
 <!---
 Krirati/Krirati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
