@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krirati
-- 👀 I’m interested in Android development
+- 👀 I’m interested in Android development & Backend development
 - 🌱 I’m currently role is Android developer that developing a mobile banking application
 - 📫 How to reach me www.linkedin.com/in/krirati-kanit
 
